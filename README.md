@@ -1,6 +1,6 @@
 # CSE-40567-60567_Spring-2025_HW2
 
-This is code to help solve my Computer Security class Homework 2 assignment.
+This is code to help solve my Computer Security class Homework 2 assignment to decipher a DES-ECB ciphertext
 
 ## References
 
@@ -9,7 +9,7 @@ This is code to help solve my Computer Security class Homework 2 assignment.
 
 ## Problem 6 (40 pts). 
 
-The following message was enciphered using DES algorithm with the key of “LOVECSND” under electronic code book mode (ECB). 
+The following message was enciphered using DES algorithm with the key of “LOVECSND” under electronic code book mode (ECB). Please Decipher it.
 
 Ciphertext in binary format: 	
 
